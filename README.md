@@ -16,6 +16,6 @@ Finsweet Youtube channel
 Finsweet's starter template contains preconfigured development tools and Finsweet attributes solutions to use directly in Webflow:
 
 - [developer-started](https://github.com/finsweet/developer-starter): Finsweet developer starter template in github.
-- [CMS-load](https://finsweet.com/attributes/cms-load): Finsweet attributes.
-- [CMS-load](https://finsweet.com/attributes/cms-filter): Finsweet attributes.
-- [CMS-load](https://finsweet.com/attributes/cms-sort): Finsweet attributes.
+- [CMS-load](https://finsweet.com/attributes/cms-load): Finsweet attributes page.
+- [CMS-filter](https://finsweet.com/attributes/cms-filter): Finsweet attributes page.
+- [CMS-sort](https://finsweet.com/attributes/cms-sort): Finsweet attributes page.
