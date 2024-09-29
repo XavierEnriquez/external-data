@@ -2,11 +2,11 @@ import type { Product } from './types';
 import type { CMSFilters } from './types/CMSFilter';
 // import { greetUser } from './utils/greet';
 
-window.Webflow ||= [];
-window.Webflow.push(() => {
-  // const name = 'Visitor';
-  // greetUser(name);
-});
+// window.Webflow ||= [];
+// window.Webflow.push(() => {
+// const name = 'Visitor';
+// greetUser(name);
+// });
 
 /**
  * Populate CMS Data from an external API.
