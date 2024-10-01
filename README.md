@@ -1,6 +1,6 @@
 # CMS-Attributes + External Data Project
 
-My practice project from the Finsweet's "Getting Technical" series with Alex Iglesias, CTO at Finsweet.
+A practice project from the Finsweet's "Getting Technical" series with Alex Iglesias, CTO at Finsweet.
 
 Using custom code to load data from an external API into a Webflow CMS project. Using Finsweet's Attributes to help load, filter, sort the data.
 
@@ -15,7 +15,7 @@ Finsweet Youtube channel
 
 Finsweet's starter template contains preconfigured development tools and Finsweet attributes solutions to use directly in Webflow:
 
-- [developer-started](https://github.com/finsweet/developer-starter): Finsweet developer starter template in github.
+- [developer-starter](https://github.com/finsweet/developer-starter): Finsweet developer starter template in github.
 - [CMS-load](https://finsweet.com/attributes/cms-load): Finsweet attributes page.
 - [CMS-filter](https://finsweet.com/attributes/cms-filter): Finsweet attributes page.
 - [CMS-sort](https://finsweet.com/attributes/cms-sort): Finsweet attributes page.
